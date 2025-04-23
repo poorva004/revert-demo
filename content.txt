@@ -1,5 +1,3 @@
-This is the first commit by Poorva.
-
 This is the second commit by Poorva as well in the same file "content.txt".
 
 This is the third and the final commit for today.
